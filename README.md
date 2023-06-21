@@ -5,6 +5,12 @@
   <br>
 
   
+
+  <img src="https://media.tenor.com/XUX6DFHZ-l0AAAAi/cool-doge-cool-dog.gif" alt="Animation Gif" width="100">
+
+  <br>
+
+  
   <br>
   ChatGPT Auto Continue
   <br>
