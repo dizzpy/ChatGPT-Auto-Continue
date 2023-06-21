@@ -1,8 +1,6 @@
 <h1 align="center">
 
-  <img src="https://freelogopng.com/images/all_img/1681039182chatgpt-logo-with-name.png" alt="logo" width="500">
-  <br>
-  <br>
+  
 
   
 
