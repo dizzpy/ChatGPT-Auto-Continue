@@ -23,7 +23,9 @@
   
 </p>
 
-<img src="#" alt="banner">
+<center>
+  <img src="https://www.linkpicture.com/q/ezgif.com-video-to-gif_7.gif" alt="banner">
+</center>
 
 <h2>Key Feature</h2>
 
