@@ -25,7 +25,7 @@
 
 
  <div style="text-align: center;">
-  <img src="https://www.linkpicture.com/q/ezgif.com-video-to-gif_7.gif" alt="banner">
+  <img src="https://www.linkpicture.com/q/ezgif.com-video-to-gif_7.gif" alt="banner" width="1000">
 </div>
 
 
